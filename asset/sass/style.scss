@@ -1,0 +1,158 @@
+@import 'import/reset.scss';
+@import 'import/_color.scss';
+/*-- this is for typography --*/
+body{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.text-center{
+    text-align: center !important;
+}
+/*------------------------
+main code start here 
+-------------------------*/
+/*-- start header area --*/
+#headerTop{
+    padding: 14px 0px;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+    .headerTopContent{
+        h4{
+            font-weight: 500;
+            color: #607c8b;
+        }
+    }
+}
+/*-- start mai body content style --*/
+#mainBodyContent{
+    padding: 30px 0px 100px 0px;
+    background: #fff;
+    .mainBodyContentHeader{
+        h1{
+            font-size: 30px;
+            width: 80%;
+            margin: 0 auto;
+            color: #cc0000;
+        }
+        h3{
+            font-size: 27px;
+            width: 75%;
+            margin: 0 auto;
+            margin-top: 15px;
+            line-height: 35px;
+        }
+    }
+    .mainbodyContentArea{
+        margin-top: 30px;
+        box-sizing: border-box;
+        .item
+            width: 80%;
+            margin: 0 auto;
+            p{
+                font-weight: 400;
+                font-size: 18px;
+                margin-bottom: 15px;
+                line-height: 25px;
+                span{
+                    font-weight: 700;
+                    margin-right: 4px;
+                    color: $titleColor;
+                }
+                a{
+                    color: #428bca;
+                    text-decoration: underline;
+                }
+            }
+            h4{
+                font-weight: 700;
+                margin-bottom: 15px;
+            }
+            .quoteBox{
+                margin-top: 25px;
+                border-left: 4px solid #ddd;
+                padding: 10px 0px;
+                padding-left: 40px;
+                margin-bottom: 25px;
+                h5{
+                    font-size: 17px;
+                    font-style: italic;
+                    font-weight: 500;
+                    line-height: 25px;
+                }
+            }
+        }
+        .videoArea{
+            margin-top: 30px;
+            .videoBox{
+                a{
+                    img{
+                        width: 70%;
+                        border-radius: 4px;
+                    }
+                }
+            }
+            >a{
+                display: inline-block;
+                margin-top: 30px;
+                background: #C51314;
+                color: #fff;
+                width: 30%;
+                font-weight: 700;
+                padding: 16px 0px;
+                border-radius: 4px;
+                font-size: 20px;
+                box-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+                &:hover{
+                    background: $titleColor;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
