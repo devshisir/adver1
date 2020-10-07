@@ -14,22 +14,18 @@
 /* MD Device :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
 #mainBodyContent .mainBodyContentHeader h1 {
-    font-size: 27px;
-    width: 100%;
-}
-#mainBodyContent .mainBodyContentHeader h3 {
-    font-size: 23px;
-    width: 100%;
-    line-height: 32px;
+    font-size: 29px;
+    line-height: 35px;
 }
 #mainBodyContent .mainbodyContentArea .item {
     width: 100%;
 }
-#mainBodyContent .mainbodyContentArea .videoArea .videoBox a img {
-    width: 85%;
-}
 #mainBodyContent .mainbodyContentArea .videoArea>a {
     width: 50%;
+}
+#mainBodyContent .mainbodyContentArea .itemTop .right img{
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 }
@@ -40,31 +36,40 @@
 
 /*-- Phone Landscape --*/
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-#mainBodyContent .mainBodyContentHeader h1 {
-    font-size: 23px;
-    width: 100%;
-}
-#mainBodyContent .mainBodyContentHeader h3 {
-    font-size: 21px;
-    width: 100%;
-    margin-top: 9px;
-    line-height: 28px;
-}
-#mainBodyContent .mainbodyContentArea .item {
-    width: 100%;
-}
-#mainBodyContent .mainbodyContentArea .item p {
-    font-size: 17px;
-}
-#mainBodyContent .mainbodyContentArea .item .quoteBox h5 {
-    font-size: 16px;
-}
-#mainBodyContent .mainbodyContentArea .videoArea .videoBox a img {
-    width: 100%;
-}
+
 #mainBodyContent .mainbodyContentArea .videoArea>a {
     width: 82%;
 }
+#mainBodyContent .mainBodyContentHeader h1 {
+    font-size: 28px;
+    line-height: 36.1px;
+}
+#mainBodyContent .mainbodyContentArea .itemTop .left p {
+    font-size: 17px;
+    line-height: 26.8px;
+}
+#mainBodyContent .mainbodyContentArea .itemTop .right img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+#footer .footerToparea h3 {
+    font-size: 21px;
+    line-height: 32.2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -119,11 +124,23 @@
 #mainBodyContent {
     padding: 30px 0px 50px 0px;
 }
-
-
-
-
-
+#mainBodyContent .mainbodyContentArea .itemTop .right img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+#footer .footerToparea h3 {
+    font-size: 19px;
+    line-height: 27.2px;
+}
+#footer .copyrightarea p {
+    font-size: 12px;
+}
+#footer .copyrightarea ul li a {
+    font-size: 14px;
+}
+#footer .copyrightarea ul li {
+    margin: 0px 2px;
+}
 
 
 }

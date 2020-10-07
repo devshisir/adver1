@@ -2,13 +2,20 @@
 @import 'import/_color.scss';
 /*-- this is for typography --*/
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 p{
-    font-family: 'Roboto', sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .text-center{
     text-align: center !important;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.underLine{
+    text-decoration: underline;
 }
 /*------------------------
 main code start here 
@@ -20,8 +27,9 @@ main code start here
     background: #fff;
     .headerTopContent{
         h4{
-            font-weight: 500;
-            color: #607c8b;
+            font-weight: 600;
+            color: #607C8B;
+            font-style: italic;
         }
     }
 }
@@ -31,34 +39,42 @@ main code start here
     background: #fff;
     .mainBodyContentHeader{
         h1{
-            font-size: 30px;
-            width: 80%;
-            margin: 0 auto;
-            color: #cc0000;
-        }
-        h3{
-            font-size: 27px;
-            width: 75%;
-            margin: 0 auto;
-            margin-top: 15px;
-            line-height: 35px;
+            font-size: 40px;
+            color: #CC0000;
+            font-weight: 700;
+            line-height: 44.1px;
         }
     }
     .mainbodyContentArea{
-        margin-top: 30px;
-        box-sizing: border-box;
-        .item
-            width: 80%;
-            margin: 0 auto;
+        margin-top: 40px;
+        .itemTop{
+            .left{
+                p{
+                    font-size: 18px;
+                    color: #333333;
+                    line-height: 28.8px;
+                    margin-bottom: 20px;
+                    span{
+                        font-weight: 700;
+                    }
+                }
+                h4{
+                    font-weight: 700;
+                    color: #333;
+                    margin-bottom: 20px;
+                }
+            }
+        }
+        .item{
             p{
-                font-weight: 400;
                 font-size: 18px;
-                margin-bottom: 15px;
-                line-height: 25px;
-                span{
+                color: #333333;
+                line-height: 28.8px;
+                margin-bottom: 20px;
+                span.bold{
                     font-weight: 700;
                     margin-right: 4px;
-                    color: $titleColor;
+                    color: #333;
                 }
                 a{
                     color: #428bca;
@@ -73,13 +89,14 @@ main code start here
                 margin-top: 25px;
                 border-left: 4px solid #ddd;
                 padding: 10px 0px;
-                padding-left: 40px;
+                padding-left: 25px;
                 margin-bottom: 25px;
                 h5{
-                    font-size: 17px;
+                    font-size: 18px;
                     font-style: italic;
-                    font-weight: 500;
-                    line-height: 25px;
+                    font-weight: 700;
+                    line-height: 24.5px;
+                    color: #333;
                 }
             }
         }
@@ -88,7 +105,7 @@ main code start here
             .videoBox{
                 a{
                     img{
-                        width: 70%;
+                        width: 100%;
                         border-radius: 4px;
                     }
                 }
@@ -109,10 +126,86 @@ main code start here
                 }
             }
         }
+        .footNoteArea{
+            margin-top: 40px;
+            .line_1{
+                display: inline-block;
+                height: 2px;
+                width: 130px;
+                background: #333;
+                margin-bottom: 20px;
+            }
+            .note_item{
+                p{
+                    color: #428bca;
+                    font-weight: 700;
+                    font-size: 15px;
+                }
+                a{
+                    display: inline-block;
+                    margin-top: 5px;
+                    color: #428bca;
+                    text-decoration: underline;
+                }
+            }
+        }
+        .disclaimer{
+            margin-top: 40px;
+            p{
+                font-size: 16px;
+                color: #333;
+                line-height: 25.6px;
+            }
+        }
     }
 }
 
-
+/*-- start footer area --*/
+#footer{
+    padding: 50px 0px;
+    background: #585F69;
+    .footerToparea{
+        h3{
+            font-weight: 500;
+            font-size: 27px;
+            color: #DADADA;
+            line-height: 40.2px;
+        }
+        p{
+            font-size: 16px;
+            color: #DADADA;
+            line-height: 25px;
+            font-weight: 500;
+            margin-top: 5px;
+        }
+    }
+    .copyrightarea{
+        margin-top: 50px;
+        p{
+            font-size: 16px;
+            color: #DADADA;
+            line-height: 25px;
+        }
+        ul{
+            margin-top: 10px;
+            li{
+                display: inline-block;
+                margin: 0px 5px;
+                a{
+                    color: #11225D;
+                    &:hover{
+                        color:#DADADA;
+                        text-decoration: underline; 
+                    }
+                    span{
+                        color: #DADADA;
+                        margin-left: 5px;
+                    }
+                }
+            }
+        }
+    }
+}
 
 
 
