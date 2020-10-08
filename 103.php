@@ -1,0 +1,133 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+   <meta charset="utf-8">
+   <title>(1) Shocking News About Your Credit Cards</title>
+   <meta name="description" content="">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="apple-touch-icon" href="asset/img/favicon.png">
+   <link rel="icon" href="asset/img/favicon.png">
+   <link rel="stylesheet" href="asset/css/bootstrap-grid.min.css">
+   <link rel="stylesheet" href="asset/css/style.css">
+   <link rel="stylesheet" href="asset/css/responsive.css">
+</head>
+
+<body>
+   <!-- start header area -->
+   <header id="headerTop">
+      <div class="container">
+         <div class="row">
+            <div class="col-12">
+               <div class="headerTopContent text-center">
+                  <h4>ADVERTISEMENT</h4>
+               </div>
+            </div>
+         </div>
+      </div>
+   </header>
+   <!-- end header area -->
+
+   <!-- start main body content -->
+   <section id="mainBodyContent">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-11 mx-auto col-12">
+               <div class="mainBodyContentHeader text-center">
+                  <h1>When It Comes To Finding Your Soulmate, These Are The Only 3 Numbers You Need To Know...</h1>
+               </div>
+               <div class="mainbodyContentArea">
+                  <div class="itemTop">
+                     <div class="row">
+                        <div class="col-lg-4">
+                           <div class="left">
+                              <p><span>(San Diego, CA)</span> - “I know dating can be awkward”, said David, “but I gotta tell ya, I wasn’t expecting to see THAT kind of picture with a bunch of question marks… especially at 9am on a Tuesday.”</p>
+                              <p>As he showed me his dating site inbox, I saw an image that's becoming more and more common for new & potential partners to send one another. </p>
+                              <p>It’s deeply private, possibly embarrassing, and has nothing to do with intimacy…</p>
+                           </div>
+                        </div>
+                        <div class="col-lg-8">
+                           <div class="right">
+                              <img class="img-fluid" src="asset/img/adv1.jpg" alt="advertisment image">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="item">
+                     <p>I’m talking, of course, about your credit-score.</p>
+                     <p>“Honestly, it was the way she did it so casually. I knew she owned a home (I rent), but we’d talked about hopes for the future on the first date & then BOOM!”</p>
+                     <p>Unfortunately for David, he was part of the 40% of people who don’t know their credit score.</p>
+                     <p>I have student loans & credit card debt. I usually just keep my head down. I hadn’t checked my credit score in years!”</p>
+                     <p>But David, and so many other singles, are discovering that size matters - and not in the vain way it once did… </p>
+                     <p>After surveying over 2000 people on their platform, Match Media Group found that:</p>
+                     <div class="quoteBox">
+                        <h5>“Half of those surveyed prefer a partner to have a good credit score over an impressive job title, and 40% took the credit score over a physically fit body.”</h5>
+                     </div>
+                     <p>So David (by no means a bad-looking guy) bit the bullet & decided to check his scores…</p>
+                     <p>“When I saw them showing 594, I was devastated! I know it wasn’t perfect, but I never knew it was that bad.”</p>
+                     <p>He laughs as he tells the story, but David was right to be concerned at the time… for more than just financial reasons…</p>
+                     <p>Being newly single, and looking for Ms. Right… he knew he had to do something about this - and do it fast.</p>
+                     <p>So he did what so many in his situation do when looking for advice…</p>
+                     <p>He got on YouTube.</p>
+                     <p>“Look, the only thing worse than dealing with finances is learning about finances,” David tells me,</p>
+                     <p style="font-style: italic;">“...which is why I figured I’d have someone teach me instead of trying to figure it all out on my own…”</p>
+                     <p>What David found at first though, was a lot of advice he <span class="bold">couldn’t</span> stomach.</p>
+                     <p>He did not want to use his savings to pay down some of his credit cards.</p>
+                     <p>He did not need a new car or have a house to refinance.</p>
+                     <p>And there was almost nothing he could do about his student debt that didn’t seem like it would take more time than it was worth…</p>
+                     <p style="font-style: italic;">“But, after a couple of days of just letting videos auto-play in the background, I finally heard <a href="#">one that caught my attention…</a>”</p>
+                     <p>Like a lot of us, David didn’t know it was possible to have completely misreported items sitting on your credit reports. And these items can drop your scores dramatically.</p>
+                     <p style="font-style: italic;">“When I found out about <a href="#">this credit score loophole</a>, I realized there were a lot of easy fixes - just hidden in plain sight... I can’t believe no one ever told me about this!”</p>
+                     <p>About a week after our interview, a friend showed me <a href="#">the exact same video</a> David found.</p>
+                     <p>Granted, she’s married with two kids, so her priorities were a little different! </p>
+                     <p>But it was weird these two people - a stranger & a close friend - we’re both so impressed with the results of this advice.</p>
+                     <p>So I finally decided to <a href="#">watch it</a> for myself.</p>
+                     <p>And after seeing the loophole revealed inside, <a href="#">I strongly recommend that you do, too…</a></p>
+                     <p>Because, I’ve probably seen all of the same “tips & tricks” articles you have about how to raise your scores... </p>
+                     <p>But, even though things like setting up automatic payments or even using one credit card for essentials can be helpful…</p>
+                     <p>They won't get you the kind of <a href="#">fast score jumps this will</a>.</p>
+                     <p>And chances are, if you’re looking for love, patience is a tricky emotion to come by…</p>
+                     <p>But before you dip into your emergency fund to pay off a credit card so you can brag for swipes, take a second & watch this <a href="#">short video now</a>.</p>
+                  </div>
+                  <div class="videoArea text-center">
+                     <div class="videoBox text-center">
+                        <a href="#">
+                           <img class="img-fluid" src="asset/img/video-thumb.png" alt="">
+                        </a>
+                     </div>
+                     <a href="#">Watch Now</a>
+                  </div>
+                  <div class="disclaimer">
+                     <p>Testimonials, case studies, and examples found on this page are results that have been forwarded to us by users of Credit Secrets and related products, and may not reflect the typical purchaser's experience, may not apply to the average person and are not intended to represent or guarantee that anyone will achieve the same or similar results.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!-- end main body content -->
+
+   <!-- start footer area -->
+   <footer id="footer">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-11 mx-auto">
+               <div class="footerToparea">
+                  <h3>THIS IS AN ADVERTISEMENT AND NOT AN ACTUAL NEWS ARTICLE, BLOG, OR CONSUMER PROTECTION UPDATE.</h3>
+                  <p>This content is sponsored by Credit Secrets. This page is a sponsored page created or supported by a company, and this is our story.</p>
+               </div>
+               <div class="copyrightarea text-center">
+                  <p>Copyright Credit Secrets 2020 - All Rights Reserved.</p>
+                  <ul>
+                     <li><a href="#">Privacy <span>|</span></a></li>
+                     <li><a href="#">Terms <span>|</span></a></li>
+                     <li><a href="#">Contact</a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </footer>
+   <!-- end footer area -->
+</body>
+</html>

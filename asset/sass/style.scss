@@ -17,6 +17,12 @@ p{
 .underLine{
     text-decoration: underline;
 }
+.noteNumber{
+    font-style: italic;
+    font-size: 12px;
+    position: relative;
+    top: -5px;
+}
 /*------------------------
 main code start here 
 -------------------------*/
@@ -97,6 +103,182 @@ main code start here
                     font-weight: 700;
                     line-height: 24.5px;
                     color: #333;
+                    span{
+                        font-size: 14px;
+                        font-weight: 500;
+                        font-style: italic;
+                        position: relative;
+                        top: -7px;
+                    }
+                }
+            }
+            .imageBox2{
+                margin-bottom: 10px;
+            }
+            .imageBox3{
+                margin-bottom: 10px;
+                .image{
+                    img{
+                        width: 100%;
+                    }
+                }
+                .content{
+                    p{
+                        font-weight: 500;
+                        font-size: 18px;
+                        width: 80%;
+                        font-style: italic;
+                        line-height: 30px;
+                    }
+                }
+            }
+        }
+        .top3TakeWay{
+            margin-top: 30px;
+            .title{
+                margin-bottom: 30px;
+                h3{
+                    font-size: 40px;
+                    color: #333;
+                    font-weight: 600;
+                    line-height: 44.1px;
+                    text-decoration: underline;
+                }
+            }
+            .takeawyItem{
+                margin-bottom: 30px;
+                h4{
+                    font-size: 25px;
+                    font-style: italic;
+                    font-weight: 500;
+                    margin-bottom: 15px;
+                    span{
+                        font-weight: 700;
+                        font-style: normal;
+                    }
+                }
+                p{
+                    font-size: 18px;
+                    color: #333333;
+                    line-height: 28.8px;
+                    margin-bottom: 20px;
+                    span.bold{
+                        font-weight: 700;
+                    }
+                }
+                .imageBox4{
+                    margin-bottom: 10px;
+                }
+                .quoteBox4{
+                    padding-left: 50px;
+                    margin-bottom: 10px;
+                    p{
+                        font-size: 18px;
+                        color: #333333;
+                        line-height: 28.8px;
+                        font-style: italic;
+                        width: 60%;
+                    }
+                }
+                .quoteBox5{
+                    padding-left: 50px;
+                    margin-bottom: 10px;
+                    p{
+                        font-size: 18px;
+                        color: #333333;
+                        line-height: 28.8px;
+                        font-style: italic;
+                        width: 80%;
+                    }
+                }
+                .imageBox5{
+                    margin-bottom: 10px;
+                }
+                .quoteBox6{
+                    padding-left: 50px;
+                    margin-bottom: 10px;
+                    p{
+                        font-size: 18px;
+                        color: #333333;
+                        line-height: 28.8px;
+                        font-style: italic;
+                        width: 80%;
+                    }
+                }
+                .imageBox6{
+                    margin-top: 20px;
+                    margin-bottom: 10px;
+                }
+                .quoteBox7{
+                    padding-left: 50px;
+                    margin-bottom: 10px;
+                    p{
+                        font-size: 18px;
+                        color: #333333;
+                        line-height: 28.8px;
+                        font-style: italic;
+                        width: 80%;
+                    }
+                }
+            }
+            .conslusion{
+                margin-top: 40px;
+                .title{
+                    h3{
+                        font-size: 40px;
+                        color: #333;
+                        font-weight: 600;
+                        line-height: 44.1px;
+                        text-decoration: underline;
+                        margin-bottom: 20px;
+                    }
+                    h4{
+                        font-size: 25px;
+                        text-align: left;
+                        line-height: 35px;
+                    }
+                }
+                p{
+                    font-size: 18px;
+                    color: #333333;
+                    line-height: 28.8px;
+                    margin-bottom: 20px;
+                    a{
+                        text-decoration: underline;
+                        color: #428bca;
+                    }
+                }
+                h5{
+                    font-size: 20px;
+                    color: #333;
+                    margin-bottom: 15px;
+                    font-weight: 600;
+                }
+                .imageBox9{
+                    margin-top: 26px;
+                    margin-bottom: 20px;
+                }
+                ul{
+                    padding-left: 40px;
+                    margin-bottom: 15px;
+                    li{
+                        font-size: 18px;
+                        color: #333333;
+                        list-style: disc;
+                        margin-bottom: 5px;
+                    }
+                }
+                .quoteBox10{
+                    padding-left: 40px;
+                    p{
+                        font-size: 18px;
+                        color: #333333;
+                        width: 80%;
+                        font-style: italic;
+                    }
+                }
+                .imageBox10{
+                    margin-bottom: 15px;
                 }
             }
         }
@@ -136,14 +318,14 @@ main code start here
                 margin-bottom: 20px;
             }
             .note_item{
+                margin-bottom: 10px;
                 p{
                     color: #428bca;
-                    font-weight: 700;
-                    font-size: 15px;
+                    font-weight: 500;
+                    font-size: 10px;
                 }
                 a{
                     display: inline-block;
-                    margin-top: 5px;
                     color: #428bca;
                     text-decoration: underline;
                 }

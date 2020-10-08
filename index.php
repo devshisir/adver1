@@ -61,7 +61,7 @@
                      <p>They’re guaranteeing their profits in spite of <a href="#">the law of big numbers.</a></p>
                      <p>And they know it.</p>
                      <div class="quoteBox">
-                        <h5>"The last thing you want is to have a potential safety net like a credit card yanked out from under you without any of your doing," said Matt Schulz of LendingTree. "Credit cardholders of all types are having this happen to them."1</h5>
+                        <h5>"The last thing you want is to have a potential safety net like a credit card yanked out from under you without any of your doing," said Matt Schulz of LendingTree. "Credit cardholders of all types are having this happen to them."<span>1</span></h5>
                      </div>
                      <p>Over the years, credit companies have created some of the densest legal documents imaginable.</p>
                      <p>Then count on everyone playing by the rules...because they made them!</p>
